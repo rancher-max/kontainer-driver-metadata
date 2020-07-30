@@ -6082,6 +6082,11 @@
    {
     "maxChannelServerVersion": "v2.5.99",
     "minChannelServerVersion": "v2.5.0-rc1",
+    "version": "v1.18.4-alpha22+rke2"
+   },
+   {
+    "maxChannelServerVersion": "v2.5.99",
+    "minChannelServerVersion": "v2.5.0-rc1",
     "version": "v1.18.4-beta1+rke2"
    }
   ]
